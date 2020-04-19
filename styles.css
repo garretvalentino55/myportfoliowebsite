@@ -1,0 +1,33 @@
+header{
+    height: 150px;
+    margin: 150px;
+    padding: 50px;
+    image-rendering: auto;
+    image-orientation: from-image;
+    background-image: image-set();
+}
+*, body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 2;
+    color: rgb(0, 0, 0);
+    background-attachment: fixed;
+    padding: 10px;
+    margin: 10px;
+
+}
+img{
+   padding: 10px;
+   height: 20px;
+}
+
+.navbar{
+    padding: .8rem;
+}
+.navbar-brand{
+    height: 5rem;
+}
